@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Steven"
   avatar           : "/assets/images/author-logo.jpg.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "to be a backend programmer"
+  bio              : "Back-End"
   location         : 
   email            : "ionc635@gmail.com"
   links:
